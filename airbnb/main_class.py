@@ -9,7 +9,7 @@ import requests
 
 
 class Airbnb(webdriver.Chrome):
-    def __init__(self, driver_path=r"C:\Users\Sergey\SeleniumDrive"):
+    def __init__(self, driver_path=const.PATH_TO_DRIVER):
         os.environ['PATH'] += driver_path
         self.url = const.BASE_URL
         self.__start_date = '2023-07-01'
