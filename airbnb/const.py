@@ -1,2 +1,3 @@
 BASE_URL = "https://www.airbnb.ru/"
-LOCATION = 'ОАЭ'
+PATH_TO_DRIVER = ''
+LOCATION = ''
