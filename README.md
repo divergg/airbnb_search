@@ -14,7 +14,9 @@ The result is saved in an .xlsx file as a set of links.
 
 3) Install requirements (pip install -r requirements.txt)
 
-4) Run app (python run.py)
+4) Set up path to your selenim Chrome drive (in const.py)
+
+5) Run app (python run.py)
 
 The lattest version of chrome drive is also required
 
